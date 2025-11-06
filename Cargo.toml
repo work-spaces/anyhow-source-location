@@ -2,6 +2,11 @@
 name = "anyhow-source-location"
 version = "0.1.0"
 edition = "2021"
+description = "Two simple macros that make it easy to add the source location to the anyhow context errors."
+license = "MIT"
+license-file = "LICENSE"
+repository = "https://github.com/work-spaces/anyhow-source-location"
+
 
 [dependencies]
 anyhow = "1"
