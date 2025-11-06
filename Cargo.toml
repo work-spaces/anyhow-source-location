@@ -1,6 +1,6 @@
 [package]
 name = "anyhow-source-location"
-version = "0.1.0"
+version = "0.2.1"
 edition = "2021"
 description = "Two simple macros that make it easy to add the source location to the anyhow context errors."
 license-file = "LICENSE"
